@@ -8,3 +8,19 @@ It is simple and easy to learn.
 
 It helps users to write plain text and convert it to multiple formats like HTML, pdf, etc.
 
+# What is Markdown File Extension?
+There is no office extension defined for these types of files.
+
+We can create a plain text file with the .md extension to write content for websites.
+We can create a file with different extensions for markdown files
+
+.markdown
+.md
+.mkd
+.mkdown
+.text
+.mdown
+Some of the popular vendors use HTML extensions.
+Github uses markdown and mdown extensions.
+
+GitHub uses the standard file extension as .md.
