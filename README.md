@@ -26,11 +26,11 @@ Github uses markdown and mdown extensions.
 GitHub uses the standard file extension as .md.
 
 # Markdown Syntax 
-##Heading h1-h6
-# Heading1	<h1>Heading1</h1>	
+## Heading h1-h6
+<!--# Heading1	<h1>Heading1</h1>	
 ## Heading1	<h2>Heading1</h2>	
 ### Heading1	<h3>Heading1</h3>	
 #### Heading1	<h4>Heading1</h4>	
 ##### Heading1	<h5>Heading1</h5>	
 ###### Heading1	<h6>Heading1</h6>	
-####### Heading1	<h7>Heading1</h7>	
+####### Heading1	<h7>Heading1</h7>	-->
